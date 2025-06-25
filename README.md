@@ -9,7 +9,7 @@
 **Kaliappan J, Saravana Kumar IJ, Sundaravelan S, Anesh T, Rithik RR, Singh Y, Vera-Garcia DV, Himeur Y, Mansoor W, Atalla S, Srinivasan K (2024)**  
 "Analyzing classification and feature selection strategies for diabetes prediction across diverse diabetes datasets"  
 *Frontiers in Artificial Intelligence*. 7:1421751.  
-[DOI: 10.3389/frai.2024.1421751](https://www.frontiersin.org/articles/10.3389/frai.2024.1421751/full)
+[RESEARCH ARTICLE LINK](https://www.frontiersin.org/articles/10.3389/frai.2024.1421751/full)
 
 ---
 
@@ -82,27 +82,6 @@ Place figures under `/visuals` and notebooks under `/notebooks`.
 
 ---
 
-## 📁 Repository Structure
-
-```bash
-.
-├── data/
-│   ├── dataset_1.csv
-│   ├── ...
-├── models/
-│   ├── rf_model.pkl
-│   ├── xgb_model.pkl
-├── notebooks/
-│   ├── diabetes_analysis.ipynb
-│   ├── shap_lime_explainability.ipynb
-├── visuals/
-│   ├── shap_summary.png
-│   ├── lime_output.png
-├── README.md
-├── requirements.txt
-```
-
----
 
 ## 💡 Getting Started
 
